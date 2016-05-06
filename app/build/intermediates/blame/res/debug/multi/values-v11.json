@@ -1,0 +1,396 @@
+[
+    {
+        "outputFile": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1443
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1448,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1871
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1876,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2297
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1511,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2302,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2724
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1937,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2729,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3149
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2364,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3154,
+                    "endColumn": 88,
+                    "endOffset": 3238
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2968,
+                        "endColumn": 88,
+                        "endOffset": 3052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3243,
+                    "endColumn": 100,
+                    "endOffset": 3339
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3057,
+                        "endColumn": 100,
+                        "endOffset": 3153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3344,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3747
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3158,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3752,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4167
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3566,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4172,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4274
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4165,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4279,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 4403
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4272,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4408,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4791
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4796,
+                    "endColumn": 70,
+                    "endOffset": 4862
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4580,
+                        "endColumn": 70,
+                        "endOffset": 4646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4867,
+                    "endColumn": 82,
+                    "endOffset": 4945
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4651,
+                        "endColumn": 82,
+                        "endOffset": 4729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4950,
+                    "endLine": 123,
+                    "endColumn": 12,
+                    "endOffset": 8653
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4734,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 8437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 8658,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 12501
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 8442,
+                        "endLine": 166,
+                        "endColumn": 12,
+                        "endOffset": 12285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 12506,
+                    "endColumn": 90,
+                    "endOffset": 12592
+                },
+                "from": {
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12469,
+                        "endColumn": 90,
+                        "endOffset": 12555
+                    }
+                }
+            }
+        ]
+    }
+]

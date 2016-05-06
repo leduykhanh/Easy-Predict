@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/chinese_new_year_frame"
+    >
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@drawable/chinese_new_year_frame">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Cho"
+            android:id="@+id/addedText"
+            android:layout_gravity="center_horizontal" />
+
+            <ToggleButton
+                android:id="@+id/is_added"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/toggle_selector"
+                android:textOff=""
+                android:textOn=""/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5px"
+            android:background="@drawable/rounded">
+            <ImageView
+                android:id="@+id/ilocSearch"
+                android:background="@color/background_floating_material_light"
+                android:padding="0dp"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_alignParentRight="true"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/person"
+                android:layout_height="wrap_content"
+                />
+            <EditText
+                android:layout_margin="8dp"
+                android:id="@+id/name"
+                android:hint="Ai cho?"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="#00000000"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5px"
+            android:background="@drawable/rounded">
+            <ImageView
+                android:id="@+id/ilocSearch1"
+                android:background="@color/background_floating_material_light"
+                android:padding="0dp"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_alignParentRight="true"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/dollar"
+                android:layout_height="wrap_content"
+                />
+            <EditText
+                android:layout_margin="8dp"
+                android:id="@+id/amount"
+                android:hint="Bao nhiêu?"
+                android:inputType="number"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="#00000000"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5px"
+            android:background="@drawable/rounded">
+            <ImageView
+                android:id="@+id/ilocSearch2"
+                android:background="@color/background_floating_material_light"
+                android:padding="0dp"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_alignParentRight="true"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/calendar"
+                android:layout_height="wrap_content"
+                />
+
+            <EditText
+                android:layout_margin="8dp"
+                android:id="@+id/time"
+                android:hint="Ngày nào?"
+                android:layout_gravity="center"
+                android:inputType="date"
+                android:layout_weight="1"
+                android:background="#00000000"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
