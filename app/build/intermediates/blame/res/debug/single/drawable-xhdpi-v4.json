@@ -48,6 +48,10 @@
         "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable-xhdpi\\com_facebook_button_send_icon_white.png"
     },
     {
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_notifications_white_24dp.png",
+        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.onesignal\\OneSignal\\2.6.2\\res\\drawable-xhdpi-v4\\ic_notifications_white_24dp.png"
+    },
+    {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png",
         "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable-xhdpi\\com_facebook_button_icon_white.png"
     },

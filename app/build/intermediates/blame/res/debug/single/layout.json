@@ -140,12 +140,12 @@
         "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_quotes.xml",
         "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\layout\\fragment_quotes.xml"
+    },
+    {
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_row.xml",
@@ -216,16 +216,16 @@
         "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_row.xml",
+        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\layout\\record_row.xml"
+    },
+    {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
         "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
     },
     {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_row.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\layout\\record_row.xml"
     },
     {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
@@ -314,6 +314,10 @@
     {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\onesignal_bgimage_notif_layout.xml",
+        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.onesignal\\OneSignal\\2.6.2\\res\\layout\\onesignal_bgimage_notif_layout.xml"
     },
     {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",

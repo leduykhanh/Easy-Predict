@@ -108,6 +108,10 @@
         "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-xxhdpi\\ic_plusone_standard_off_client.png"
     },
     {
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_notifications_white_24dp.png",
+        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.onesignal\\OneSignal\\2.6.2\\res\\drawable-xxhdpi-v4\\ic_notifications_white_24dp.png"
+    },
+    {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_communities.png",
         "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-xxhdpi\\ic_communities.png"
     },

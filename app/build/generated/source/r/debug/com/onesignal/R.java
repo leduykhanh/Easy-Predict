@@ -20,18 +20,23 @@ public final class R {
 	public static final class drawable {
 		public static final int common_full_open_on_phone = 0x7f020065;
 		public static final int common_ic_googleplayservices = 0x7f020066;
+		public static final int ic_notifications_white_24dp = 0x7f02008b;
 	}
 	public static final class id {
 		public static final int adjust_height = 0x7f0d0032;
 		public static final int adjust_width = 0x7f0d0033;
 		public static final int none = 0x7f0d0010;
 		public static final int normal = 0x7f0d000c;
+		public static final int os_bgimage_notif_bgimage = 0x7f0d00b9;
+		public static final int os_bgimage_notif_body = 0x7f0d00bb;
+		public static final int os_bgimage_notif_title = 0x7f0d00ba;
 		public static final int standard = 0x7f0d0041;
 	}
 	public static final class integer {
 		public static final int google_play_services_version = 0x7f0a0005;
 	}
 	public static final class layout {
+		public static final int onesignal_bgimage_notif_layout = 0x7f030045;
 	}
 	public static final class string {
 		public static final int common_google_play_services_enable_button = 0x7f060027;

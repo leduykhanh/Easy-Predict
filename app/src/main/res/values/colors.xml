@@ -9,7 +9,7 @@
     <color name="list_row_hover_start_color">#ebeef0</color>
     <color name="list_row_hover_end_color">#ebeef0</color>
     <color name="list_background">#21610B</color>
-    <color name="actionbar_background">#e82d2d</color>
+    <color name="actionbar_background">#560622</color>
     <color name="list_item_title">#ababab</color>
     <color name="counter_text_color">#ebeef0</color>
     <color name="counter_text_bg">#ebeef0</color>

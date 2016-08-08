@@ -304,6 +304,10 @@
         "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notifications_white_24dp.png",
+        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.onesignal\\OneSignal\\2.6.2\\res\\drawable-hdpi-v4\\ic_notifications_white_24dp.png"
+    },
+    {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
