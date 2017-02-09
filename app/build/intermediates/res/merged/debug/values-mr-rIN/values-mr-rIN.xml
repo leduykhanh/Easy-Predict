@@ -50,5 +50,6 @@
     <string msgid="9071884888741449141" name="common_signin_button_text">"साइन इन करा"</string>
     <string msgid="2429381841831957106" name="common_signin_button_text_long">"Google सह साइन इन करा"</string>
     <string msgid="5000919058582214855" name="commono_google_play_services_api_unavailable_text">"या अॅपसाठी अशा एक किंवा अधिक Google Play सेवांची आवश्यकता आहे ज्या सध्या उपलब्ध नाहीत. कृपया सहाय्यासाठी विकासकाशी संपर्क साधा."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"शोधा"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

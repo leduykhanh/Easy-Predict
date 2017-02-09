@@ -50,5 +50,6 @@
     <string msgid="9071884888741449141" name="common_signin_button_text">"உள்நுழைக"</string>
     <string msgid="2429381841831957106" name="common_signin_button_text_long">"Google மூலம் உள்நுழை"</string>
     <string msgid="5000919058582214855" name="commono_google_play_services_api_unavailable_text">"இந்தப் பயன்பாட்டிற்கு தற்போது இல்லாத ஒன்று அல்லது அதற்கு மேற்பட்ட Google Play சேவைகள் தேவை. உதவிக்காக டெவெலப்பரைத் தொடர்பு கொள்ளவும்."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"தேடு"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

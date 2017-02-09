@@ -1,30 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    api-level="1"
-    format="7"
-    timestamp="93944041622061" >
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="809577927762416"
+    token="3667392337679703097"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2820" />
+        duration="237" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1258" />
+        duration="15" />
     <task
         name="verifier"
-        duration="232" />
+        duration="1" />
 
     <artifact
-        location="D:\le\Easy Predict\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
 
-    <build timestamp="93944041622061" >
+    <build
+        timestamp="808559426160033"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="D:\le\Easy Predict\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="808690480817116"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\le\Easy Predict\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="809577927762416"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

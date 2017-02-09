@@ -1,7 +1,9 @@
 package jangkoo.predict.utils;
 import android.app.Activity;
+import android.content.Context;
 import android.graphics.Color;
 import android.graphics.Typeface;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -15,12 +17,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 import jangkoo.predict.R;
-
+import jangkoo.predict.model.Predict;
 
 
 public class PredictsListviewAdapter extends BaseAdapter {
 
-    public ArrayList<HashMap<String, String>> list;
+    public ArrayList<Predict> list;
     Activity activity;
     TextView team1;
     TextView team2;
@@ -28,13 +30,13 @@ public class PredictsListviewAdapter extends BaseAdapter {
     Button bet1,bet2,bet0;
     ImageView txtFourth;
     Typeface font,fontNum;
-    public PredictsListviewAdapter(Activity activity, ArrayList<HashMap<String, String>> list){
+    public PredictsListviewAdapter(Activity activity, ArrayList<Predict> list){
         super();
         this.activity=activity;
         this.list=list;
         font = Typeface.createFromAsset(activity.getAssets(), "fonts/DorBlue.ttf");
         fontNum = Typeface.createFromAsset(activity.getAssets(), "fonts/HARLOWSI.TTF");
-
+        Log.d("constructor", list.toString());
     }
 
     @Override
@@ -61,9 +63,10 @@ public class PredictsListviewAdapter extends BaseAdapter {
     public View getView(int position, View convertView, ViewGroup parent) {
         // TODO Auto-generated method stub
 
-
-
         LayoutInflater inflater=activity.getLayoutInflater();
+        if (inflater == null)
+            inflater = (LayoutInflater) activity
+                    .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 
         if(convertView == null) {
 
@@ -131,15 +134,16 @@ public class PredictsListviewAdapter extends BaseAdapter {
                 ;
             });
         }
-        HashMap<String, String> map=list.get(position);
-        team1.setText(map.get("team1"));
-        team2.setText(map.get("team2"));
+        Predict map=list.get(position);
+        team1.setText(map.firstTeam.name);
+        team2.setText(map.secondTeam.name);
 //        txtThird.setText(map.get("name"));
 //        txtFourth.setText(map.get(FOURTH_COLUMN));
-        if(map.get("id")!=null) {
-            convertView.setBackgroundColor(Integer.parseInt(map.get("id")) > 0 ? Color.parseColor("#e82d2d") : Color.WHITE);
-            team2.setTextColor(Integer.parseInt(map.get("id")) > 0 ? Color.GREEN : Color.RED);
+        if(map._id!=null) {
+            convertView.setBackgroundColor(Integer.parseInt(map._id.substring(0,1)) > 0 ? Color.parseColor("#e82d2d") : Color.WHITE);
+            team2.setTextColor(Integer.parseInt(map._id.substring(0,1)) > 0 ? Color.GREEN : Color.RED);
         }
+
         return convertView;
     }
 

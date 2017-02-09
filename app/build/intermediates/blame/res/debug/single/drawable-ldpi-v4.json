@@ -1,59 +1,11 @@
 [
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\round_button.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\round_button.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\money_active.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\money_active.png"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cancel.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\cancel.png"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\person.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\person.png"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\minus.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\minus.png"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bank_note.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\bank_note.png"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\facebook.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\facebook.png"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stop.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\stop.png"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\youtbe.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\youtbe.png"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dollar.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\dollar.png"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\calendar.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\calendar.png"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\money_inactive.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\money_inactive.png"
-    },
-    {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rounded.xml",
         "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\rounded.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\plus.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\plus.png"
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\custom_btn_black_pearl.xml",
+        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\custom_btn_black_pearl.xml"
     },
     {
         "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\custom_btn_orange.xml",
@@ -64,7 +16,7 @@
         "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\chinese_new_year_frame.jpg"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\custom_btn_black_pearl.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\custom_btn_black_pearl.xml"
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\round_button.xml",
+        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\round_button.xml"
     }
 ]

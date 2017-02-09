@@ -2,179 +2,337 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_3e801f2c585276f3f273a9825aabeda71442f872.jar" />
-    </item>
-    <item
+        is-multidex="true"
         jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.0.0-beta-4589\7d0a683599f8fa2d5fea55ad8bc3ca3f51a8354a\kotlin-runtime-1.0.0-beta-4589.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
         sha1="7d0a683599f8fa2d5fea55ad8bc3ca3f51a8354a">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\kotlin-runtime-1.0.0-beta-4589_e559d9195777d05bf7647c98398aa8cfcb43869b.jar" />
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-runtime-1.0.0-beta-4589_e559d9195777d05bf7647c98398aa8cfcb43869b\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.9.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="5c9b831cf63629b8b3873959e52515340484a880">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.9.0_0387831e251365aeb9e71acb0c8fd33fba153b18.jar" />
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2a16c8d216a854fefc493da1d4c78d1d218d372e\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.19.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-7.3.0_35120823e519d246577dfffd77d30ff0571a622a.jar" />
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.19.0_44e41647ba79018cff4c919538384c53dfdf1457\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_4c78979c706f13e9c0d421a853458290258cb66c.jar" />
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_f2da476c4afd820059a9fd654a3ef4586313b7f3\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_62ad08e3ab6e65116cfdde84ece8b6431d34207a.jar" />
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_95f5395fe9e5e6653466bb26f0f91958c7376f67\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_88023f48f15081e8c5a1507fe3f18ea683b166aa.jar" />
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_6f815c437f5041fa1398059938ee272d24e7eaa8\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.github.kittinunf.fuel\fuel-android\0.71\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="3995577a758e92ab92e19a9e39c6049311f6a769">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.github.kittinunf.fuel-fuel-android-0.71_5f0d74db2df9de76eeec2ca180b609914c3b79ca.jar" />
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_57a39b1be068197797cd88a73e2024b2a070bf29\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-7.3.0_5c4d42b2476c6ab7c5ec739c441b0e6927db2e18.jar" />
-    </item>
-    <item
+        is-multidex="true"
         jar="D:\le\Easy Predict\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="ef7fd4a37b9b48937035772caa336d4d966676b5">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4386a0315dd76b6850cf8ac1faba7bd6c6f50747.jar" />
+        sha1="65e49d276d726dadcd108af93d35842eb92ba7b8">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4386a0315dd76b6850cf8ac1faba7bd6c6f50747\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.3.0_af78d14b03156d50be9e20b920afa6524c7bd67f.jar" />
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_eb50ca5b83d9f06ea07b153000d84ac2b049a929\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="9b01cccf45e277f91321ce021e78e629d287d01f">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.onesignal-OneSignal-2.6.2_a3e764c6fc2c3654328db16f99cb4239c2dbe39b.jar" />
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_4bb81305a2c3f19acdbcfc2cba1982b722ab9b8c\classes.dex" />
     </item>
     <item
-        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.github.kittinunf.fuel\fuel\0.71\dcd89197e607d6eeac5b3331f6916062ca57f0e2\fuel-0.71.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="dcd89197e607d6eeac5b3331f6916062ca57f0e2">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\fuel-0.71_6b906b8e0ba39d50bfb98a9c4d26fb63300f125c.jar" />
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_f708cd7dd4c9143e83cfac130f80e7646a033be2\classes.dex" />
     </item>
     <item
+        is-multidex="true"
         jar="D:\le\Easy Predict\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="30981cb2244a095fbc4e504722811fdfb94757b8">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\instant-run_001f0ac97a3106259195f5c54e3c965343f90b40.jar" />
+        sha1="a834cb584689dd1658fd5c5f7a7d0d0ae21fc8bb">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_001f0ac97a3106259195f5c54e3c965343f90b40\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\libs\YouTubeAndroidPlayerApi.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_f45061194826de4780ab2576fb77b4f9d4fccbc6.jar" />
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.3.0_35120823e519d246577dfffd77d30ff0571a622a\classes.dex" />
     </item>
     <item
-        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="bc535105332645408ef5f1380215cc954b842178">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.3.0_aa7fda21d69a6ae6936fb353b54958caa22a7171.jar" />
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_0bda70261d84ffba5973678183bd31ec095fed69\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_ad11f7393da0867da10c01e3d74a2bc3e0f26244.jar" />
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_96f12e8700ea9948ea58a5d2d1e3e6a0e560c3d4\classes.dex" />
     </item>
     <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.3.0_5c4d42b2476c6ab7c5ec739c441b0e6927db2e18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_62ad08e3ab6e65116cfdde84ece8b6431d34207a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.github.kittinunf.result\result\0.31\17e3384630c517d545118b7e2b7beb373356264b\result-0.31.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
         sha1="17e3384630c517d545118b7e2b7beb373356264b">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\result-0.31_a062f44e1ea7b94ceeb7182517b6a0a6201aa0e1.jar" />
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\result-0.31_a062f44e1ea7b94ceeb7182517b6a0a6201aa0e1\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_792a51975fb79d6a65fd4e949491f7007e638ace.jar" />
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_382e704c94dc96ffd14e5a834066791c77fe3059\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.github.kittinunf.fuel\fuel-android\0.71\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_44f1f0161006ee97f1cc6eca65e9e05b96bc0a56.jar" />
+        sha1="3995577a758e92ab92e19a9e39c6049311f6a769">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.kittinunf.fuel-fuel-android-0.71_5f0d74db2df9de76eeec2ca180b609914c3b79ca\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_84ef5e20f04a95bbe1fcb70096c9c4950791e306.jar" />
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_c1a73f9c777c4eccae081853c1f83ca276719aa6\classes.dex" />
     </item>
     <item
-        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-7.3.0_11c02e1d37797a66066c99e2cf586f44ab1df637.jar" />
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_c440586145bd44d9c225863cf70f48f0c1aadd0c\classes.dex" />
     </item>
     <item
-        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0_acff59cbf7a27da7ad0699743b4eb7d33a6ecfa6.jar" />
-    </item>
-    <item
+        is-multidex="true"
         jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.0.0-beta-4589\ce246fdbecf1a358d08522c971e5dc71b35cc0ea\kotlin-stdlib-1.0.0-beta-4589.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
         sha1="ce246fdbecf1a358d08522c971e5dc71b35cc0ea">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.0.0-beta-4589_d6f63726b5515ca01543f38347830b61ad7d2520.jar" />
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.0.0-beta-4589_d6f63726b5515ca01543f38347830b61ad7d2520\classes.dex" />
     </item>
     <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_d943d39588748ee1117c83ea9058a2d6416cb70b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.3.0_af78d14b03156d50be9e20b920afa6524c7bd67f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9b01cccf45e277f91321ce021e78e629d287d01f">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.onesignal-OneSignal-2.6.2_a3e764c6fc2c3654328db16f99cb4239c2dbe39b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_c4599d1f99ea789cdc77ad5343c443279d333564\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9a52c1666c356b428b74e3bd85aa5e584d341910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.3.0_11c02e1d37797a66066c99e2cf586f44ab1df637\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.github.kittinunf.fuel\fuel\0.71\dcd89197e607d6eeac5b3331f6916062ca57f0e2\fuel-0.71.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dcd89197e607d6eeac5b3331f6916062ca57f0e2">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\fuel-0.71_6b906b8e0ba39d50bfb98a9c4d26fb63300f125c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_e967602cedb3cdf27c5916205188b8064fdde338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
         sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
-        <dex dex="D:\le\Easy Predict\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-7.3.0_a91fb14759aa3bc420b7d991a264022a33eb43f1.jar" />
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.3.0_a91fb14759aa3bc420b7d991a264022a33eb43f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_276a44db6b3f3b3a1dafe6b6c033dc1b65ae2c04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_83ce72751ad61f4ccbce8870babe1366aafecbeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_869c0925c25b823c9a228b5798f1b549b856ea15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_f45061194826de4780ab2576fb77b4f9d4fccbc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\le\Easy Predict\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_44f1f0161006ee97f1cc6eca65e9e05b96bc0a56\classes.dex" />
     </item>
 
 </items>
