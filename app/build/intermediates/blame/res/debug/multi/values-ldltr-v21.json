@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\values-ldltr-v21\\values-ldltr-v21.xml",
+=======
+        "outputFile": "D:\\le\\Easy Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
         "map": [
             {
                 "to": {
@@ -11,13 +15,17 @@
                     "endOffset": 163
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 240,
+                        "startOffset": 55,
                         "endColumn": 112,
-                        "endOffset": 348
+                        "endOffset": 163
                     }
                 }
             }

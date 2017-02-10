@@ -50,5 +50,6 @@
     <string msgid="9071884888741449141" name="common_signin_button_text">"ចូល"</string>
     <string msgid="2429381841831957106" name="common_signin_button_text_long">"ចូល​ដោយ​ប្រើ​ Google"</string>
     <string msgid="5000919058582214855" name="commono_google_play_services_api_unavailable_text">"កម្មវិធីនេះតម្រូវឲ្យមានសេវាកម្ម Google Play មួយ ឬច្រើនដែលមិនមានផ្តល់ជូនទេនាពេលបច្ចុប្បន្ន។ សូមទំនាក់ទំនងអ្នកអភិវឌ្ឍន៍ដើម្បីទទួលជំនួយ។"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ស្វែងរក"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

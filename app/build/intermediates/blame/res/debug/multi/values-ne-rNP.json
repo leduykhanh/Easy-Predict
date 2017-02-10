@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+        "outputFile": "D:\\le\\Easy Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
         "map": [
             {
                 "to": {
@@ -11,13 +15,17 @@
                     "endOffset": 205
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 55,
                         "endColumn": 104,
-                        "endOffset": 333
+                        "endOffset": 155
                     }
                 }
             },
@@ -30,13 +38,17 @@
                     "endOffset": 313
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 338,
+                        "startOffset": 160,
                         "endColumn": 107,
-                        "endOffset": 441
+                        "endOffset": 263
                     }
                 }
             },
@@ -49,13 +61,17 @@
                     "endOffset": 436
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 446,
+                        "startOffset": 268,
                         "endColumn": 122,
-                        "endOffset": 564
+                        "endOffset": 386
                     }
                 }
             },
@@ -68,13 +84,17 @@
                     "endOffset": 540
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 569,
+                        "startOffset": 391,
                         "endColumn": 103,
-                        "endOffset": 668
+                        "endOffset": 490
                     }
                 }
             },
@@ -87,13 +107,17 @@
                     "endOffset": 648
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 673,
+                        "startOffset": 495,
                         "endColumn": 107,
-                        "endOffset": 776
+                        "endOffset": 598
                     }
                 }
             },
@@ -106,13 +130,17 @@
                     "endOffset": 739
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 781,
+                        "startOffset": 603,
                         "endColumn": 90,
-                        "endOffset": 867
+                        "endOffset": 689
                     }
                 }
             },
@@ -125,13 +153,17 @@
                     "endOffset": 846
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 872,
+                        "startOffset": 694,
                         "endColumn": 106,
-                        "endOffset": 974
+                        "endOffset": 796
                     }
                 }
             },
@@ -144,13 +176,17 @@
                     "endOffset": 973
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 979,
+                        "startOffset": 801,
                         "endColumn": 126,
-                        "endOffset": 1101
+                        "endOffset": 923
                     }
                 }
             },
@@ -163,13 +199,17 @@
                     "endOffset": 1067
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1106,
+                        "startOffset": 928,
                         "endColumn": 93,
-                        "endOffset": 1195
+                        "endOffset": 1017
                     }
                 }
             },
@@ -182,13 +222,17 @@
                     "endOffset": 1157
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1200,
+                        "startOffset": 1022,
                         "endColumn": 89,
-                        "endOffset": 1285
+                        "endOffset": 1107
                     }
                 }
             },
@@ -201,13 +245,17 @@
                     "endOffset": 1245
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1290,
+                        "startOffset": 1112,
                         "endColumn": 87,
-                        "endOffset": 1373
+                        "endOffset": 1195
                     }
                 }
             },
@@ -220,13 +268,17 @@
                     "endOffset": 1355
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1378,
+                        "startOffset": 1200,
                         "endColumn": 109,
-                        "endOffset": 1483
+                        "endOffset": 1305
                     }
                 }
             },
@@ -239,13 +291,17 @@
                     "endOffset": 1471
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1488,
+                        "startOffset": 1310,
                         "endColumn": 115,
-                        "endOffset": 1599
+                        "endOffset": 1421
                     }
                 }
             },
@@ -258,13 +314,17 @@
                     "endOffset": 1574
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1604,
+                        "startOffset": 1426,
                         "endColumn": 102,
-                        "endOffset": 1702
+                        "endOffset": 1524
                     }
                 }
             },
@@ -277,13 +337,17 @@
                     "endOffset": 1689
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1707,
+                        "startOffset": 1529,
                         "endColumn": 114,
-                        "endOffset": 1817
+                        "endOffset": 1639
                     }
                 }
             },
@@ -296,13 +360,17 @@
                     "endOffset": 1791
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1822,
+                        "startOffset": 1644,
                         "endColumn": 101,
-                        "endOffset": 1919
+                        "endOffset": 1741
                     }
                 }
             },
@@ -315,13 +383,17 @@
                     "endOffset": 1906
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1924,
+                        "startOffset": 1746,
                         "endColumn": 114,
-                        "endOffset": 2034
+                        "endOffset": 1856
                     }
                 }
             },
@@ -334,13 +406,17 @@
                     "endOffset": 2037
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2039,
+                        "startOffset": 1861,
                         "endColumn": 130,
-                        "endOffset": 2165
+                        "endOffset": 1987
                     }
                 }
             },
@@ -353,13 +429,17 @@
                     "endOffset": 2149
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2170,
+                        "startOffset": 1992,
                         "endColumn": 111,
-                        "endOffset": 2277
+                        "endOffset": 2099
                     }
                 }
             },
@@ -957,17 +1037,40 @@
                     "startLine": 52,
                     "startColumn": 4,
                     "startOffset": 6882,
-                    "endColumn": 100,
-                    "endOffset": 6978
+                    "endColumn": 85,
+                    "endOffset": 6963
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2282,
+                        "startOffset": 2104,
+                        "endColumn": 85,
+                        "endOffset": 2185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6968,
+                    "endColumn": 100,
+                    "endOffset": 7064
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2190,
                         "endColumn": 100,
-                        "endOffset": 2378
+                        "endOffset": 2286
                     }
                 }
             }

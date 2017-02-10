@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\person.png",
         "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable-ldpi\\person.png"
     },
@@ -54,6 +55,14 @@
     {
         "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\chinese_new_year_frame.jpg",
         "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable-ldpi\\chinese_new_year_frame.jpg"
+=======
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rounded.xml",
+        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\rounded.xml"
+    },
+    {
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\custom_btn_black_pearl.xml",
+        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\custom_btn_black_pearl.xml"
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
     },
     {
         "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\custom_btn_orange.xml",
@@ -64,7 +73,12 @@
         "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable-ldpi\\bank_note.png"
     },
     {
+<<<<<<< HEAD
         "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\money_inactive.png",
         "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable-ldpi\\money_inactive.png"
+=======
+        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\round_button.xml",
+        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\round_button.xml"
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
     }
 ]

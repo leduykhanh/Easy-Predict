@@ -19,19 +19,23 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
+        debug {
+            debuggable true
+        }
     }
 
 }
 
 dependencies {
     compile 'com.google.android.gms:play-services-ads:7.3.0'
-    compile 'com.android.support:support-v4:22.2.0'
+    compile 'com.android.support:support-v4:23.0.0'
     compile 'com.google.android.gms:play-services-identity:7.3.0'
     compile 'com.google.android.gms:play-services-gcm:7.3.0'
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.android.support:design:23.1.1'
-    compile 'com.facebook.android:facebook-android-sdk:4.9.0'
+    compile 'com.facebook.android:facebook-android-sdk:4.+'
     compile files('libs/YouTubeAndroidPlayerApi.jar')
     compile 'com.github.kittinunf.fuel:fuel-android:0.71'
     compile 'com.onesignal:OneSignal:2.+@aar'
+    compile 'com.mcxiaoke.volley:library-aar:1.0.0'
 }

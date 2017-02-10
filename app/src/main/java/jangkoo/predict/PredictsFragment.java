@@ -6,6 +6,8 @@ import android.graphics.Bitmap;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.PowerManager;
+import android.support.v4.widget.SwipeRefreshLayout;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -13,6 +15,9 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.JsonArrayRequest;
 import com.facebook.share.model.SharePhoto;
 import com.facebook.share.model.SharePhotoContent;
 import com.facebook.share.widget.ShareDialog;
@@ -24,15 +29,21 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import jangkoo.predict.app.MyApplication;
+import jangkoo.predict.model.Predict;
+import jangkoo.predict.model.Team;
 import jangkoo.predict.services.ServiceHandler;
 import jangkoo.predict.utils.PredictsListviewAdapter;
 
-public class PredictsFragment extends Fragment {
+import static jangkoo.predict.app.MyApplication.TAG;
+
+public class PredictsFragment extends Fragment  implements SwipeRefreshLayout.OnRefreshListener{
     DownloadTask downloadTask ;
     TextView content;
     View rootView;
+    private SwipeRefreshLayout swipeRefreshLayout;
     private PredictsListviewAdapter adapter;
-    private ArrayList<HashMap<String,String>> arrayList;
+    private ArrayList<Predict> betsList;
     private TextView totalTv;
     private ListView predictsList;
     Context ctx;
@@ -47,25 +58,91 @@ public class PredictsFragment extends Fragment {
                              Bundle savedInstanceState) {
         ctx = inflater.getContext();
         rootView = inflater.inflate(R.layout.fragment_predicts, container, false);
-        content = (TextView) rootView.findViewById(R.id.content);
-        arrayList=new ArrayList<HashMap<String,String>>();
-        HashMap<String,String> temp=new HashMap<String, String>();
-        temp.put("team1","Arsenal");
-        temp.put("team2","Barca");
-        temp.put("bet_id","1");
-        HashMap<String,String> temp2=new HashMap<String, String>();
-        temp2.put("team1","Bayern");
-        temp2.put("team2","Chelsea");
-        temp2.put("bet_id","2");
-        arrayList.add(temp);
-        arrayList.add(temp2);
+        swipeRefreshLayout = (SwipeRefreshLayout) rootView.findViewById(R.id.swipe_refresh_layout);
+//        content = (TextView) rootView.findViewById(R.id.content);
+        betsList=new ArrayList<Predict>();
+        Predict temp1=new Predict("1","Football",new Team("Arsenal",""),new Team("Barca",""),2);
+        Predict temp2=new Predict("1","Football",new Team("Arsenal",""),new Team("Barca",""),2);
+//        betsList.add(temp1);
+//        betsList.add(temp2);
+
         predictsList = (ListView) rootView.findViewById(R.id.content_list);
-        adapter =  new PredictsListviewAdapter(this.getActivity(), arrayList);
+        adapter =  new PredictsListviewAdapter(this.getActivity(), betsList);
         predictsList.setAdapter(adapter);
-        //downloadTask = new DownloadTask(inflater.getContext());
-        //downloadTask.execute("http://jangkoo.com/apps/hongbao/getdata.php");
+        swipeRefreshLayout.setOnRefreshListener(this);
+        swipeRefreshLayout.post(new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        swipeRefreshLayout.setRefreshing(true);
+
+                                        fetchBets();
+                                    }
+                                }
+        );
+//        downloadTask = new DownloadTask(inflater.getContext());
+//        downloadTask.execute("http://jangkoo.com/apps/hongbao/getdata.php");
 
         return rootView;
+    }
+    @Override
+    public void onRefresh() {
+        Toast.makeText(ctx, "Refreshed", Toast.LENGTH_SHORT).show();
+        fetchBets();
+    }
+    private void fetchBets(){
+        swipeRefreshLayout.setRefreshing(true);
+        betsList.clear();
+        Toast.makeText(ctx, "fetching bets", Toast.LENGTH_SHORT).show();
+        String url = "http://www.jangkoo.com/api/bet/list";
+        JsonArrayRequest req = new JsonArrayRequest(url,
+                new Response.Listener<JSONArray>() {
+                    @Override
+                    public void onResponse(JSONArray response) {
+                        Log.d(TAG, response.toString());
+
+                        if (response.length() > 0) {
+
+                            // looping through json and adding to movies list
+                            for (int i = 0; i < response.length(); i++) {
+                                try {
+                                    JSONObject betObj = response.getJSONObject(i);
+
+                                    String _id = betObj.getString("_id");
+                                    String name = betObj.getString("name");
+                                    JSONObject firstTeam = betObj.getJSONObject("firstTeam");
+                                    JSONObject secondTeam = betObj.getJSONObject("secondTeam");
+                                    int firstScore = betObj.getInt("firstScore");
+                                    Predict p = new Predict( _id, name, new Team(firstTeam.getString("name"),firstTeam.getString("logo")) ,
+                                            new Team(secondTeam.getString("name"),secondTeam.getString("logo")), firstScore);
+                                    betsList.add(p);
+
+
+                                } catch (JSONException e) {
+                                    Log.e(TAG, "JSON Parsing error: " + e.getMessage());
+                                }
+                            }
+                            adapter.notifyDataSetChanged();
+                            swipeRefreshLayout.setRefreshing(false);
+                        }
+
+                        // stopping swipe refresh
+                        swipeRefreshLayout.setRefreshing(false);
+
+                    }
+                }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                Log.e(TAG, "Server Error: " + error.getMessage());
+
+                Toast.makeText(ctx, "Picture posted", Toast.LENGTH_SHORT).show();
+
+                // stopping swipe refresh
+                swipeRefreshLayout.setRefreshing(false);
+            }
+        });
+        // Adding request to request queue
+        MyApplication.getInstance().addToRequestQueue(req);
+        swipeRefreshLayout.setRefreshing(false);
     }
     public void postPicture() {
         Toast toast = Toast.makeText(ctx, "Picture posted", Toast.LENGTH_SHORT);
@@ -135,7 +212,7 @@ public class PredictsFragment extends Fragment {
                         HashMap<String,String> temp=new HashMap<String, String>();
                         temp.put("id",id);
                         temp.put("content",content);
-                        arrayList.add(temp);
+//                        arrayList.add(temp);
 
                     }
                 } catch (JSONException e) {

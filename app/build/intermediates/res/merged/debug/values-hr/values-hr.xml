@@ -19,7 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dijeljenje sa: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string>
-    <string name="com_facebook_device_auth_instructions">Posjetite %@ na pametnom telefonu ili računalu i unesite ovaj kôd:</string>
+    <string name="com_facebook_device_auth_instructions">Posjetite &lt;b>facebook.com/device&lt;/b> na pametnom telefonu ili računalu i unesite ovaj kôd:</string>
     <string name="com_facebook_image_download_unknown_error">Prilikom preuzimanja slike došlo je do neočekivane pogreške.</string>
     <string name="com_facebook_internet_permission_error_message">Za prijavu u aplikaciju WebView potrebna je dozvola INTERNET</string>
     <string name="com_facebook_internet_permission_error_title">Pogreška datoteke AndroidManifest</string>
@@ -28,6 +28,7 @@
     <string name="com_facebook_loading">Učitavanje u tijeku…</string>
     <string name="com_facebook_loginview_cancel_action">Odustani</string>
     <string name="com_facebook_loginview_log_in_button">Prijavi se</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Nastavite s korištenjem Facebooka</string>
     <string name="com_facebook_loginview_log_in_button_long">Prijava putem Facebooka</string>
     <string name="com_facebook_loginview_log_out_action">Odjavi se</string>
     <string name="com_facebook_loginview_log_out_button">Odjavi se</string>
@@ -35,7 +36,7 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Prijavljen putem Facebooka</string>
     <string name="com_facebook_send_button_text">Pošalji</string>
     <string name="com_facebook_share_button_text">Dijeli</string>
-    <string name="com_facebook_tooltip_default">Novo! Vi odlučujete – odaberite koje informacije želite podijeliti u aplikacijama.</string>
+    <string name="com_facebook_tooltip_default">Vi odlučujete – odaberite koje podatke želite dijeliti u aplikacijama.</string>
     <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Aplikacija zahtijeva ažuriranje na aplikaciju Android Wear."</string>
     <string msgid="3046420540094071256" name="common_android_wear_update_text">"Ova aplikacija neće funkcionirati ako ne ažurirate aplikaciju Android Wear."</string>
     <string msgid="1366439133145190222" name="common_android_wear_update_title">"Ažurirajte Android Wear"</string>
@@ -67,5 +68,6 @@
     <string msgid="9071884888741449141" name="common_signin_button_text">"Prijava"</string>
     <string msgid="2429381841831957106" name="common_signin_button_text_long">"Prijava uslugom Google"</string>
     <string msgid="5000919058582214855" name="commono_google_play_services_api_unavailable_text">"Ta aplikacija zahtijeva jednu ili više Google Play usluga koje trenutačno nisu dostupne. Za pomoć se obratite razvojnom programeru."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

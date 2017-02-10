@@ -1,0 +1,7 @@
+#Fri Feb 10 14:38:08 SGT 2017
+base.0=D\:\\le\\Easy Predict\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4386a0315dd76b6850cf8ac1faba7bd6c6f50747
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\le\\Easy Predict\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_001f0ac97a3106259195f5c54e3c965343f90b40\\classes.dex
+base.1=D\:\\le\\Easy Predict\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_001f0ac97a3106259195f5c54e3c965343f90b40
+file.0=D\:\\le\\Easy Predict\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4386a0315dd76b6850cf8ac1faba7bd6c6f50747\\classes.dex

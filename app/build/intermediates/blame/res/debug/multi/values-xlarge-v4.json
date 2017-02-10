@@ -1,12 +1,17 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
+=======
+        "outputFile": "D:\\le\\Easy Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
+<<<<<<< HEAD
                     "endColumn": 76,
                     "endOffset": 127
                 },
@@ -26,17 +31,46 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 132,
+=======
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "endColumn": 70,
-                    "endOffset": 198
+                    "endOffset": 121
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 7,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 485,
+                        "startOffset": 55,
                         "endColumn": 70,
-                        "endOffset": 551
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 70,
+                    "endOffset": 192
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 70,
+                        "endOffset": 192
                     }
                 }
             },
@@ -44,18 +78,22 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 203,
-                    "endColumn": 70,
-                    "endOffset": 269
+                    "startOffset": 197,
+                    "endColumn": 69,
+                    "endOffset": 262
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 8,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 556,
-                        "endColumn": 70,
-                        "endOffset": 622
+                        "startOffset": 197,
+                        "endColumn": 69,
+                        "endOffset": 262
                     }
                 }
             },
@@ -63,18 +101,22 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 274,
+                    "startOffset": 267,
                     "endColumn": 69,
-                    "endOffset": 339
+                    "endOffset": 332
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 9,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 627,
+                        "startOffset": 267,
                         "endColumn": 69,
-                        "endOffset": 692
+                        "endOffset": 332
                     }
                 }
             },
@@ -82,18 +124,22 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 344,
-                    "endColumn": 69,
-                    "endOffset": 409
+                    "startOffset": 337,
+                    "endColumn": 67,
+                    "endOffset": 400
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 10,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 697,
-                        "endColumn": 69,
-                        "endOffset": 762
+                        "startOffset": 337,
+                        "endColumn": 67,
+                        "endOffset": 400
                     }
                 }
             },
@@ -101,36 +147,22 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 414,
+                    "startOffset": 405,
                     "endColumn": 67,
-                    "endOffset": 477
+                    "endOffset": 468
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 11,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 767,
+                        "startOffset": 405,
                         "endColumn": 67,
-                        "endOffset": 830
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 482,
-                    "endColumn": 67,
-                    "endOffset": 545
-                },
-                "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 835,
-                        "endColumn": 67,
+<<<<<<< HEAD
                         "endOffset": 898
                     }
                 }
@@ -170,6 +202,9 @@
                         "startOffset": 967,
                         "endColumn": 54,
                         "endOffset": 1017
+=======
+                        "endOffset": 468
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     }
                 }
             }

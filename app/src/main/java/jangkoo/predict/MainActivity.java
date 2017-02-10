@@ -22,6 +22,7 @@ import java.util.ArrayList;
 import android.app.DialogFragment;
 import android.app.Fragment;
 import android.app.FragmentManager;
+import android.content.Intent;
 import android.content.res.Configuration;
 import android.content.res.TypedArray;
 import android.os.Bundle;
@@ -94,6 +95,7 @@ public class MainActivity extends AppCompatActivity implements CreateDialogFragm
 			public void onSuccess(LoginResult loginResult) {
 				Toast.makeText(MainActivity.this, "Login successful", Toast.LENGTH_SHORT).show();
 				Profile profile = Profile.getCurrentProfile();
+				Log.e("FB", "success");
 				profilePictureView.setProfileId(profile.getId());
 				//name.setText(profile.getName());
 			}
@@ -122,7 +124,7 @@ public class MainActivity extends AppCompatActivity implements CreateDialogFragm
 				getSupportFragmentManager().findFragmentById(R.id.fragment_navigation_drawer);
 		drawerFragment.setUp(R.id.fragment_navigation_drawer, (DrawerLayout) findViewById(R.id.drawer_layout), mToolbar);
 		drawerFragment.setDrawerListener(this);
-		loginButton.setFragment(drawerFragment);
+//		loginButton.setFragment(drawerFragment);
 		// display the first navigation drawer view on app launch
 		displayView(0);
 
@@ -151,11 +153,11 @@ public class MainActivity extends AppCompatActivity implements CreateDialogFragm
 		displayView(position);
 
 	}
-//	@Override
-//	public void onActivityResult(int requestCode, int resultCode, Intent data) {
-//		super.onActivityResult(requestCode, resultCode, data);
-//		callbackManager.onActivityResult(requestCode, resultCode, data);
-//	}
+	@Override
+	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+		super.onActivityResult(requestCode, resultCode, data);
+		callbackManager.onActivityResult(requestCode, resultCode, data);
+	}
 	/**
 	 * Slide menu item click listener
 	 * */

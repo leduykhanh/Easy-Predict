@@ -1,23 +1,31 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\values-kn\\values-kn.xml",
+=======
+        "outputFile": "D:\\le\\Easy Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 153,
-                    "endOffset": 204
+                    "endColumn": 183,
+                    "endOffset": 234
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 153,
-                        "endOffset": 319
+                        "startOffset": 55,
+                        "endColumn": 183,
+                        "endOffset": 234
                     }
                 }
             },
@@ -25,18 +33,22 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 209,
+                    "startOffset": 239,
                     "endColumn": 126,
-                    "endOffset": 331
+                    "endOffset": 361
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 324,
+                        "startOffset": 239,
                         "endColumn": 126,
-                        "endOffset": 446
+                        "endOffset": 361
                     }
                 }
             },
@@ -44,18 +56,22 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 336,
+                    "startOffset": 366,
                     "endColumn": 120,
-                    "endOffset": 452
+                    "endOffset": 482
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 451,
+                        "startOffset": 366,
                         "endColumn": 120,
-                        "endOffset": 567
+                        "endOffset": 482
                     }
                 }
             },
@@ -63,18 +79,22 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 457,
+                    "startOffset": 487,
                     "endColumn": 92,
-                    "endOffset": 545
+                    "endOffset": 575
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 572,
+                        "startOffset": 487,
                         "endColumn": 92,
-                        "endOffset": 660
+                        "endOffset": 575
                     }
                 }
             },
@@ -82,18 +102,22 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 550,
+                    "startOffset": 580,
                     "endColumn": 74,
-                    "endOffset": 620
+                    "endOffset": 650
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 665,
+                        "startOffset": 580,
                         "endColumn": 74,
-                        "endOffset": 735
+                        "endOffset": 650
                     }
                 }
             },
@@ -101,18 +125,22 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 625,
+                    "startOffset": 655,
                     "endColumn": 73,
-                    "endOffset": 694
+                    "endOffset": 724
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 740,
+                        "startOffset": 655,
                         "endColumn": 73,
-                        "endOffset": 809
+                        "endOffset": 724
                     }
                 }
             },
@@ -120,18 +148,22 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 699,
-                    "endColumn": 67,
-                    "endOffset": 762
+                    "startOffset": 729,
+                    "endColumn": 65,
+                    "endOffset": 790
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 814,
-                        "endColumn": 67,
-                        "endOffset": 877
+                        "startOffset": 729,
+                        "endColumn": 65,
+                        "endOffset": 790
                     }
                 }
             },
@@ -139,18 +171,22 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 767,
+                    "startOffset": 795,
                     "endColumn": 74,
-                    "endOffset": 837
+                    "endOffset": 865
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 882,
+                        "startOffset": 795,
                         "endColumn": 74,
-                        "endOffset": 952
+                        "endOffset": 865
                     }
                 }
             },
@@ -158,18 +194,22 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 842,
+                    "startOffset": 870,
                     "endColumn": 75,
-                    "endOffset": 913
+                    "endOffset": 941
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 957,
+                        "startOffset": 870,
                         "endColumn": 75,
-                        "endOffset": 1028
+                        "endOffset": 941
                     }
                 }
             },
@@ -177,18 +217,22 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 918,
+                    "startOffset": 946,
                     "endColumn": 99,
-                    "endOffset": 1013
+                    "endOffset": 1041
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1033,
+                        "startOffset": 946,
                         "endColumn": 99,
-                        "endOffset": 1128
+                        "endOffset": 1041
                     }
                 }
             },
@@ -196,18 +240,22 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1018,
-                    "endColumn": 76,
-                    "endOffset": 1090
+                    "startOffset": 1046,
+                    "endColumn": 99,
+                    "endOffset": 1141
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1133,
-                        "endColumn": 76,
-                        "endOffset": 1205
+                        "startOffset": 1046,
+                        "endColumn": 99,
+                        "endOffset": 1141
                     }
                 }
             },
@@ -215,18 +263,22 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1095,
+                    "startOffset": 1146,
                     "endColumn": 76,
-                    "endOffset": 1167
+                    "endOffset": 1218
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1210,
+                        "startOffset": 1146,
                         "endColumn": 76,
-                        "endOffset": 1282
+                        "endOffset": 1218
                     }
                 }
             },
@@ -234,18 +286,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1172,
-                    "endColumn": 94,
-                    "endOffset": 1262
+                    "startOffset": 1223,
+                    "endColumn": 76,
+                    "endOffset": 1295
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1287,
-                        "endColumn": 94,
-                        "endOffset": 1377
+                        "startOffset": 1223,
+                        "endColumn": 76,
+                        "endOffset": 1295
                     }
                 }
             },
@@ -253,18 +305,22 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1267,
-                    "endColumn": 112,
-                    "endOffset": 1375
+                    "startOffset": 1300,
+                    "endColumn": 94,
+                    "endOffset": 1390
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1382,
-                        "endColumn": 112,
-                        "endOffset": 1490
+                        "startOffset": 1300,
+                        "endColumn": 94,
+                        "endOffset": 1390
                     }
                 }
             },
@@ -272,18 +328,22 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1380,
-                    "endColumn": 65,
-                    "endOffset": 1441
+                    "startOffset": 1395,
+                    "endColumn": 112,
+                    "endOffset": 1503
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1495,
-                        "endColumn": 65,
-                        "endOffset": 1556
+                        "startOffset": 1395,
+                        "endColumn": 112,
+                        "endOffset": 1503
                     }
                 }
             },
@@ -291,18 +351,22 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1446,
-                    "endColumn": 69,
-                    "endOffset": 1511
+                    "startOffset": 1508,
+                    "endColumn": 65,
+                    "endOffset": 1569
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1561,
-                        "endColumn": 69,
-                        "endOffset": 1626
+                        "startOffset": 1508,
+                        "endColumn": 65,
+                        "endOffset": 1569
                     }
                 }
             },
@@ -310,18 +374,22 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1516,
-                    "endColumn": 156,
-                    "endOffset": 1668
+                    "startOffset": 1574,
+                    "endColumn": 69,
+                    "endOffset": 1639
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1631,
-                        "endColumn": 156,
-                        "endOffset": 1783
+                        "startOffset": 1574,
+                        "endColumn": 69,
+                        "endOffset": 1639
                     }
                 }
             },
@@ -329,18 +397,45 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1673,
-                    "endColumn": 62,
-                    "endOffset": 1731
+                    "startOffset": 1644,
+                    "endColumn": 151,
+                    "endOffset": 1791
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
                     "position": {
-                        "startLine": 23,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1920,
+                        "startOffset": 1644,
+                        "endColumn": 151,
+                        "endOffset": 1791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endColumn": 62,
+                    "endOffset": 1854
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-kn\\values-kn.xml",
+=======
+                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-kn\\values-kn.xml",
+>>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1796,
                         "endColumn": 62,
-                        "endOffset": 1978
+                        "endOffset": 1854
                     }
                 }
             }
