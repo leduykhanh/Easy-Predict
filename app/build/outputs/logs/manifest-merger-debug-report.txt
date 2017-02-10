@@ -172,7 +172,7 @@ ADDED from D:\le\Easy Predict\app\src\main\AndroidManifest.xml:49:9-52:64
 provider#com.facebook.FacebookContentProvider
 ADDED from D:\le\Easy Predict\app\src\main\AndroidManifest.xml:53:9-55:38
 	android:authorities
-		ADDED from D:\le\Easy Predict\app\src\main\AndroidManifest.xml:53:19-96
+		ADDED from D:\le\Easy Predict\app\src\main\AndroidManifest.xml:53:19-97
 	android:exported
 		ADDED from D:\le\Easy Predict\app\src\main\AndroidManifest.xml:55:13-36
 	android:name
