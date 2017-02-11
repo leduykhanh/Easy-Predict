@@ -5,46 +5,33 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="881726229412075"
-    token="3667392337679703097"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="197709196277607"
+    token="-8066600616342303023"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1338" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1393" />
     <task
         name="verifier"
-        duration="0" />
+        duration="297" />
+
+    <artifact
+        location="D:\Code\Easy-Predict\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="880322354118393"
+        timestamp="197709196277607"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\le\Easy Predict\app\build\outputs\apk\app-debug.apk"
+            location="D:\Code\Easy-Predict\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="881237009297682"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\le\Easy Predict\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
-    <build
-        timestamp="881641449805456"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\le\Easy Predict\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="881726229412075"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

@@ -1,527 +1,298 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_selector.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_button_background.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_button_icon.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hongbao.png",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\hongbao.png"
-=======
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_icon.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\list_row_bg.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\list_selector.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bet_button.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\bet_button.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_send_background.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_profile.png",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\ic_profile.png"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_like_background.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_button_send_background.xml"
-=======
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_background.xml"
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_send_button_icon.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_button_like_background.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counter_bg.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counter_bg.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\counter_bg.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_selector.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\toggle_selector.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
-=======
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counter_bg.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_login_background.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\messenger_button_white_bg_round.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_login_logo.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_login_background.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_profile.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\ic_profile.png"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_text_light.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_icon_light.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_profile.png",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\ic_profile.png"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_row_bg.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_bar.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\action_bar.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
-=======
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg_hover.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\list_row_bg_hover.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_icon_light.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_vector_test.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hongbao.png",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\hongbao.png"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_thumbnail.png",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\loading_thumbnail.png"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_text_dark.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_like_background.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_thumbnail.png",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\no_thumbnail.png"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_thumbnail.png",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\loading_thumbnail.png"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bet_button.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\bet_button.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_bar.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\action_bar.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_row_bg.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_selector.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\toggle_selector.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg_hover.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_row_bg_hover.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_text_light.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_background.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bet_button.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\bet_button.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_thumbnail.png",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\loading_thumbnail.png"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_favicon_blue.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg_hover.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_row_bg_hover.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
     },
     {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
-    },
-    {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\messenger_button_white_bg_round.xml"
-    },
-    {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_thumbnail.png",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\no_thumbnail.png"
-    },
-    {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_selector.xml"
-    },
-    {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_send_button_icon.xml"
-    },
-    {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_selector.xml",
-        "source": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_row_selector.xml"
-=======
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_selector.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\list_row_selector.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_send_background.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_icon.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_favicon_blue.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_selector.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable\\toggle_selector.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_button_login_logo.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\drawable\\com_facebook_send_button_icon.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
-        "source": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_text_dark.xml"
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_selector.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable\\list_row_selector.xml"
     }
 ]

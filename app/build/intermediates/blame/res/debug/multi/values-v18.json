@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
-=======
-        "outputFile": "D:\\le\\Easy Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+        "outputFile": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -15,11 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v18\\values-v18.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v18\\values-v18.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

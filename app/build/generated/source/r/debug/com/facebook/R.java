@@ -911,36 +911,6 @@ public final class R {
 		public static final int status_bar_notification_info_overflow = 0x7f060046;
 	}
 	public static final class style {
-<<<<<<< HEAD
-		public static final int CardView = 0x7f090080;
-		public static final int CardView_Dark = 0x7f0900b3;
-		public static final int CardView_Light = 0x7f0900b4;
-		public static final int MessengerButton = 0x7f0900b5;
-		public static final int MessengerButtonText = 0x7f0900bc;
-		public static final int MessengerButtonText_Blue = 0x7f0900bd;
-		public static final int MessengerButtonText_Blue_Large = 0x7f0900be;
-		public static final int MessengerButtonText_Blue_Small = 0x7f0900bf;
-		public static final int MessengerButtonText_White = 0x7f0900c0;
-		public static final int MessengerButtonText_White_Large = 0x7f0900c1;
-		public static final int MessengerButtonText_White_Small = 0x7f0900c2;
-		public static final int MessengerButton_Blue = 0x7f0900b6;
-		public static final int MessengerButton_Blue_Large = 0x7f0900b7;
-		public static final int MessengerButton_Blue_Small = 0x7f0900b8;
-		public static final int MessengerButton_White = 0x7f0900b9;
-		public static final int MessengerButton_White_Large = 0x7f0900ba;
-		public static final int MessengerButton_White_Small = 0x7f0900bb;
-		public static final int com_facebook_auth_dialog = 0x7f09015d;
-		public static final int com_facebook_button = 0x7f09015e;
-		public static final int com_facebook_button_like = 0x7f09015f;
-		public static final int com_facebook_button_send = 0x7f090160;
-		public static final int com_facebook_button_share = 0x7f090161;
-		public static final int com_facebook_loginview_default_style = 0x7f090162;
-		public static final int com_facebook_loginview_silver_style = 0x7f090163;
-		public static final int tooltip_bubble_text = 0x7f090164;
-	}
-	public static final class styleable {
-		public static final int[] CardView = { 0x0101013f, 0x01010140, 0x7f01002c, 0x7f01002d, 0x7f01002e, 0x7f01002f, 0x7f010030, 0x7f010031, 0x7f010032, 0x7f010033, 0x7f010034, 0x7f010035, 0x7f010036 };
-=======
 		public static final int AlertDialog_AppCompat = 0x7f08009c;
 		public static final int AlertDialog_AppCompat_Light = 0x7f08009d;
 		public static final int Animation_AppCompat_Dialog = 0x7f08009e;
@@ -1510,7 +1480,6 @@ public final class R {
 		public static final int[] CardView = { 0x0101013f, 0x01010140, 0x7f0100a3, 0x7f0100a4, 0x7f0100a5, 0x7f0100a6, 0x7f0100a7, 0x7f0100a8, 0x7f0100a9, 0x7f0100aa, 0x7f0100ab, 0x7f0100ac, 0x7f0100ad };
 		public static final int CardView_android_minHeight = 1;
 		public static final int CardView_android_minWidth = 0;
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
 		public static final int CardView_cardBackgroundColor = 2;
 		public static final int CardView_cardCornerRadius = 3;
 		public static final int CardView_cardElevation = 4;
@@ -1522,9 +1491,6 @@ public final class R {
 		public static final int CardView_contentPaddingLeft = 9;
 		public static final int CardView_contentPaddingRight = 10;
 		public static final int CardView_contentPaddingTop = 11;
-<<<<<<< HEAD
-		public static final int[] com_facebook_like_view = { 0x7f010121, 0x7f010122, 0x7f010123, 0x7f010124, 0x7f010125, 0x7f010126 };
-=======
 		public static final int[] ColorStateListItem = { 0x010101a5, 0x0101031f, 0x7f0100bd };
 		public static final int ColorStateListItem_alpha = 2;
 		public static final int ColorStateListItem_android_alpha = 1;
@@ -1696,7 +1662,6 @@ public final class R {
 		public static final int View_paddingStart = 2;
 		public static final int View_theme = 4;
 		public static final int[] com_facebook_like_view = { 0x7f010134, 0x7f010135, 0x7f010136, 0x7f010137, 0x7f010138, 0x7f010139 };
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
 		public static final int com_facebook_like_view_com_facebook_auxiliary_view_position = 4;
 		public static final int com_facebook_like_view_com_facebook_foreground_color = 0;
 		public static final int com_facebook_like_view_com_facebook_horizontal_alignment = 5;

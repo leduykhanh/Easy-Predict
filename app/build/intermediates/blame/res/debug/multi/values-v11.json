@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
-=======
-        "outputFile": "D:\\le\\Easy Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+        "outputFile": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -16,7 +12,7 @@
                     "endOffset": 599
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -37,11 +33,7 @@
                     "endOffset": 1018
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -62,11 +54,7 @@
                     "endOffset": 1443
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -87,11 +75,7 @@
                     "endOffset": 1871
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -112,11 +96,7 @@
                     "endOffset": 2297
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -137,11 +117,7 @@
                     "endOffset": 2724
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -162,11 +138,7 @@
                     "endOffset": 3149
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -186,11 +158,7 @@
                     "endOffset": 3238
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -209,11 +177,7 @@
                     "endOffset": 3339
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -232,7 +196,7 @@
                     "endOffset": 3442
                 },
                 "from": {
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -252,7 +216,7 @@
                     "endOffset": 3850
                 },
                 "from": {
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -273,11 +237,7 @@
                     "endOffset": 4270
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -298,11 +258,7 @@
                     "endOffset": 4692
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -323,11 +279,7 @@
                     "endOffset": 4799
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -348,11 +300,7 @@
                     "endOffset": 4928
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -373,7 +321,7 @@
                     "endOffset": 5316
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -393,11 +341,7 @@
                     "endOffset": 5387
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -416,11 +360,7 @@
                     "endOffset": 5470
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -440,11 +380,7 @@
                     "endOffset": 9409
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -465,11 +401,7 @@
                     "endOffset": 13491
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
@@ -489,11 +421,7 @@
                     "endOffset": 13582
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,

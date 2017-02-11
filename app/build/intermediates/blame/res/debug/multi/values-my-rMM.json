@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\values-my-rMM\\values-my-rMM.xml",
-=======
-        "outputFile": "D:\\le\\Easy Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+        "outputFile": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
         "map": [
             {
                 "to": {
@@ -15,11 +11,7 @@
                     "endOffset": 209
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -38,11 +30,7 @@
                     "endOffset": 317
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -61,11 +49,7 @@
                     "endOffset": 442
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -84,11 +68,7 @@
                     "endOffset": 547
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -107,11 +87,7 @@
                     "endOffset": 664
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -130,11 +106,7 @@
                     "endOffset": 757
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -153,11 +125,7 @@
                     "endOffset": 869
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -176,11 +144,7 @@
                     "endOffset": 997
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -199,11 +163,7 @@
                     "endOffset": 1075
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,11 +182,7 @@
                     "endOffset": 1154
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -245,11 +201,7 @@
                     "endOffset": 1240
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -268,11 +220,7 @@
                     "endOffset": 1363
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -291,11 +239,7 @@
                     "endOffset": 1475
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -314,11 +258,7 @@
                     "endOffset": 1577
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -337,11 +277,7 @@
                     "endOffset": 1703
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -360,11 +296,7 @@
                     "endOffset": 1814
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -383,11 +315,7 @@
                     "endOffset": 1924
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -406,11 +334,7 @@
                     "endOffset": 2047
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -429,11 +353,7 @@
                     "endOffset": 2147
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -452,7 +372,7 @@
                     "endOffset": 2335
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -471,7 +391,7 @@
                     "endOffset": 2504
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -490,7 +410,7 @@
                     "endOffset": 2629
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -509,7 +429,7 @@
                     "endOffset": 2766
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -528,7 +448,7 @@
                     "endOffset": 2937
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -547,7 +467,7 @@
                     "endOffset": 3072
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -566,7 +486,7 @@
                     "endOffset": 3246
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -585,7 +505,7 @@
                     "endOffset": 3385
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -604,7 +524,7 @@
                     "endOffset": 3583
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -623,7 +543,7 @@
                     "endOffset": 3777
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -642,7 +562,7 @@
                     "endOffset": 3913
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -661,7 +581,7 @@
                     "endOffset": 4092
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -680,7 +600,7 @@
                     "endOffset": 4218
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -699,7 +619,7 @@
                     "endOffset": 4400
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -718,7 +638,7 @@
                     "endOffset": 4576
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -737,7 +657,7 @@
                     "endOffset": 4696
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -756,7 +676,7 @@
                     "endOffset": 4897
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -775,7 +695,7 @@
                     "endOffset": 5089
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -794,7 +714,7 @@
                     "endOffset": 5229
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -813,7 +733,7 @@
                     "endOffset": 5449
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -832,7 +752,7 @@
                     "endOffset": 5594
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -851,7 +771,7 @@
                     "endOffset": 5743
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -870,7 +790,7 @@
                     "endOffset": 5996
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -889,7 +809,7 @@
                     "endOffset": 6128
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -908,7 +828,7 @@
                     "endOffset": 6239
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -927,7 +847,7 @@
                     "endOffset": 6417
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -946,7 +866,7 @@
                     "endOffset": 6558
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -965,7 +885,7 @@
                     "endOffset": 6653
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -984,7 +904,7 @@
                     "endOffset": 6753
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -1003,7 +923,7 @@
                     "endOffset": 6870
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -1022,7 +942,7 @@
                     "endOffset": 7107
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-my-rMM\\common_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -1041,7 +961,7 @@
                     "endOffset": 7191
                 },
                 "from": {
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1060,11 +980,7 @@
                     "endOffset": 7292
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-my-rMM\\values-my-rMM.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

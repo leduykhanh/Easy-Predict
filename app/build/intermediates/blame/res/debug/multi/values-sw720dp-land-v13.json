@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
-=======
-        "outputFile": "D:\\le\\Easy Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+        "outputFile": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -15,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

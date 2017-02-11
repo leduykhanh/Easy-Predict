@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-        "outputFile": "D:\\le\\Easy Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+        "outputFile": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
         "map": [
             {
                 "to": {
@@ -15,11 +11,7 @@
                     "endOffset": 196
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -38,11 +30,7 @@
                     "endOffset": 303
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -61,11 +49,7 @@
                     "endOffset": 426
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -84,11 +68,7 @@
                     "endOffset": 521
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -107,11 +87,7 @@
                     "endOffset": 621
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -130,11 +106,7 @@
                     "endOffset": 703
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -153,11 +125,7 @@
                     "endOffset": 800
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -176,11 +144,7 @@
                     "endOffset": 906
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -199,11 +163,7 @@
                     "endOffset": 982
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,11 +182,7 @@
                     "endOffset": 1058
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -245,11 +201,7 @@
                     "endOffset": 1136
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -268,11 +220,7 @@
                     "endOffset": 1232
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -291,11 +239,7 @@
                     "endOffset": 1328
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -314,11 +258,7 @@
                     "endOffset": 1423
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -337,11 +277,7 @@
                     "endOffset": 1520
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -360,11 +296,7 @@
                     "endOffset": 1615
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -383,11 +315,7 @@
                     "endOffset": 1713
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -406,11 +334,7 @@
                     "endOffset": 1825
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -429,11 +353,7 @@
                     "endOffset": 1919
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -452,11 +372,7 @@
                     "endOffset": 2039
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -475,11 +391,7 @@
                     "endOffset": 2122
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -498,11 +410,7 @@
                     "endOffset": 2211
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -521,11 +429,7 @@
                     "endOffset": 2303
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -544,11 +448,7 @@
                     "endOffset": 2365
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -567,11 +467,7 @@
                     "endOffset": 2430
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -590,11 +486,7 @@
                     "endOffset": 2485
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -613,11 +505,7 @@
                     "endOffset": 2553
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -636,11 +524,7 @@
                     "endOffset": 2621
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -659,7 +543,7 @@
                     "endOffset": 2712
                 },
                 "from": {
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -678,11 +562,7 @@
                     "endOffset": 2797
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -701,11 +581,7 @@
                     "endOffset": 2866
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -724,11 +600,7 @@
                     "endOffset": 2935
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -747,11 +619,7 @@
                     "endOffset": 3011
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -770,11 +638,7 @@
                     "endOffset": 3103
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -793,11 +657,7 @@
                     "endOffset": 3164
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -816,11 +676,7 @@
                     "endOffset": 3226
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -839,11 +695,7 @@
                     "endOffset": 3307
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -862,7 +714,7 @@
                     "endOffset": 3445
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -881,7 +733,7 @@
                     "endOffset": 3566
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -900,7 +752,7 @@
                     "endOffset": 3672
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -919,7 +771,7 @@
                     "endOffset": 3788
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -938,7 +790,7 @@
                     "endOffset": 3914
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -957,7 +809,7 @@
                     "endOffset": 4028
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -976,7 +828,7 @@
                     "endOffset": 4189
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -995,7 +847,7 @@
                     "endOffset": 4306
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1014,7 +866,7 @@
                     "endOffset": 4450
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1033,7 +885,7 @@
                     "endOffset": 4597
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1052,7 +904,7 @@
                     "endOffset": 4711
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1071,7 +923,7 @@
                     "endOffset": 4840
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1090,7 +942,7 @@
                     "endOffset": 4953
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1109,7 +961,7 @@
                     "endOffset": 5084
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1128,7 +980,7 @@
                     "endOffset": 5218
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1147,7 +999,7 @@
                     "endOffset": 5329
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1166,7 +1018,7 @@
                     "endOffset": 5477
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1185,7 +1037,7 @@
                     "endOffset": 5619
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1204,7 +1056,7 @@
                     "endOffset": 5741
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1223,7 +1075,7 @@
                     "endOffset": 5865
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -1242,7 +1094,7 @@
                     "endOffset": 5977
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -1261,7 +1113,7 @@
                     "endOffset": 6098
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1280,7 +1132,7 @@
                     "endOffset": 6247
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1299,7 +1151,7 @@
                     "endOffset": 6365
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1318,7 +1170,7 @@
                     "endOffset": 6468
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -1337,7 +1189,7 @@
                     "endOffset": 6593
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1356,7 +1208,7 @@
                     "endOffset": 6708
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1375,7 +1227,7 @@
                     "endOffset": 6793
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -1394,7 +1246,7 @@
                     "endOffset": 6880
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -1413,7 +1265,7 @@
                     "endOffset": 6982
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -1432,7 +1284,7 @@
                     "endOffset": 7139
                 },
                 "from": {
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\values-zh-rCN\\common_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -1451,11 +1303,7 @@
                     "endOffset": 7197
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.19.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1474,7 +1322,7 @@
                     "endOffset": 7275
                 },
                 "from": {
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1493,11 +1341,7 @@
                     "endOffset": 7376
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "A:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
-                    "file": "D:\\le\\Easy Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> dbebaba729e35f74656eddd7aa878fd95ba1c2b5
+                    "file": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
