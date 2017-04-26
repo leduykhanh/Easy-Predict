@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -36,3 +37,6 @@ app/app.iml
 build
 gradle
 .gradle
+.idea/*
+build/*
+

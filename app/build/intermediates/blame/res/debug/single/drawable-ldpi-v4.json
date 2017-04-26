@@ -1,22 +1,22 @@
 [
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rounded.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\rounded.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\custom_btn_black_pearl.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable-ldpi\\custom_btn_black_pearl.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\custom_btn_black_pearl.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\custom_btn_black_pearl.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rounded.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable-ldpi\\rounded.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\custom_btn_orange.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\custom_btn_orange.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\round_button.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable-ldpi\\round_button.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\chinese_new_year_frame.jpg",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\chinese_new_year_frame.jpg"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\custom_btn_orange.xml",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable-ldpi\\custom_btn_orange.xml"
     },
     {
-        "merged": "D:\\le\\Easy Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\round_button.xml",
-        "source": "D:\\le\\Easy Predict\\app\\src\\main\\res\\drawable-ldpi\\round_button.xml"
+        "merged": "D:\\Code\\Easy-Predict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\chinese_new_year_frame.jpg",
+        "source": "D:\\Code\\Easy-Predict\\app\\src\\main\\res\\drawable-ldpi\\chinese_new_year_frame.jpg"
     }
 ]
